@@ -59,13 +59,11 @@ AI-powered breakup recovery app with emotional support and guided healing.
 
 ## 📸 Preview
 
-(Add your screenshots here 👇)
 
 ![Portfolio Preview](./public/preview1.png)
-(./public/preview2.png)
-(./public/preview3.png)
-
-(./public/preview4.png)
+![Portfolio Preview](./public/preview2.png)
+![Portfolio Preview](./public/preview3.png)
+![Portfolio Preview](./public/preview4.png)
 
 
 
